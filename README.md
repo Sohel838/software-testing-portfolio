@@ -1,5 +1,5 @@
 **🧪 Software Testing Portfolio**
-Hi, I’m Sohel Patel, a passionate Test Engineer with 3 years of experience in manual and automation testing.
+Hi, I’m Sohel Patel, a passionate Test Engineer with 2+ years of experience in manual and automation testing.
 This repository is my portfolio where I showcase different areas of software testing – from test documentation to automation frameworks and API testing.
 I created this repo to give a complete picture of how I approach testing, write test cases, automate scenarios, and use tools that are common in the QA industry.
 
